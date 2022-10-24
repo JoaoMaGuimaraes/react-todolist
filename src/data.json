@@ -1,0 +1,12 @@
+[
+    {
+    "id": 1,
+    "todo": "Dinner with friends"
+  }, {
+    "id": 2,
+    "todo": "Exercise"
+  }, {
+    "id": 3,
+    "todo": "Vacuum floor"
+  }
+]
